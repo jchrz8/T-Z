@@ -1,0 +1,2 @@
+Aplikacja desktopowa napisana w c# za pomocą wpfa. Aplikacja daje mozliwosc dodania obejrzanych filmów oraz ystawienia im opini.
+Aplikacja wyswietla liste oraz oceny obejrzanych przez uzytkownika filmow. Dane bedą przechowywane w bazie danych bądź w zewnętrznym pliku txt.
